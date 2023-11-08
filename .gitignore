@@ -164,4 +164,4 @@ foo.csv
 food.zip
 chrome-win64.zip
 chrome-win64/
-headlines.csv
+headlines*.csv
