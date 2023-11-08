@@ -4,3 +4,5 @@ camelot-py
 ghostscript
 camelot-py
 opencv-python
+selenium
+pandas
