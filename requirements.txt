@@ -6,3 +6,4 @@ camelot-py
 opencv-python
 selenium
 pandas
+openpyxl
